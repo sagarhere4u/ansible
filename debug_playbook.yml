@@ -4,4 +4,4 @@
   tasks:
   - name: debug job
     debug:
-      msg: "This is sample print"
+      msg: "This is sample print for AWX"
